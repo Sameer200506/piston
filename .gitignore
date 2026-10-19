@@ -1,0 +1,6 @@
+# COMSOL
+*.lock
+
+# misc
+.DS_Store
+Thumbs.db
